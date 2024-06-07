@@ -1,9 +1,10 @@
 ### Hi there 👋
-I am Roy, and I am interested in Machine learning...
+I am Roy
+My interest leans towards machine learning algorithms...I am currently working on applying multi-output Gaussian Processeses in drug response predictive modelling
 
 - 💬 Ask me about ...
 - 📫 How to reach me: roypangani@gmail.com
-- 🌱 I’m currently learning machine learning and AI
+- 🌱 I’m currently studying Advanced Computer Science in Artificial Intelligence
 - ⚡ Fun fact: I will still know it no matter the time it will take...
 <!--
 **Pangani/Pangani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
