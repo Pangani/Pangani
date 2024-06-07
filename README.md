@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Roy
+I am Roy <br>
 My interest leans towards machine learning algorithms...I am currently working on applying multi-output Gaussian Processeses in drug response predictive modelling
 
 - 💬 Ask me about ...
