@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Roy <br>
-My interest leans towards machine learning algorithms...I am currently working on applying multi-output Gaussian Processeses in drug response predictive modelling
+My interest leans towards machine learning algorithms...I am currently working on the application of multi-output Gaussian Processeses models in predicting drug response curves in cancer research
 
 - 💬 Ask me about ...
 - 📫 How to reach me: roypangani@gmail.com
